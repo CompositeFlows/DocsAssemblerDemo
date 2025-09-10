@@ -1,0 +1,260 @@
+{
+    "key": "s7SMOZ0AN   ",
+    "token": "Frametower",
+    "name": "FrameTower",
+    "created": "2025-08-04T12:59:50.543Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/equipment/Ξ FrameTower/FrameTower.tsmap",
+    "iText": "Link to 'FrameTower'",
+    "iExits": [
+        {
+            "key": "s7SMOZ0VN",
+            "text": "Next",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "s7SMOZ0WV",
+        "nodes": [
+            {
+                "key": "s7SMOZ04o",
+                "order": 1,
+                "variable": "frameCount ",
+                "nodes": [
+                    {
+                        "key": "s7SMOZ1be",
+                        "order": 1,
+                        "option": "One Frame Tower - great for beginners or testing",
+                        "variable": "frame = 1",
+                        "nodes": [
+                            {
+                                "key": "s7SMOZ0CT",
+                                "order": 1,
+                                "iKey": "s7SMPh1IK",
+                                "nodes": [
+                                    {
+                                        "key": "s7SMOZ08O",
+                                        "order": 1,
+                                        "option": "Next",
+                                        "iExitKey": "s7SMPh1IZ",
+                                        "exitKey": "s7SMOZ0VN"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "s7SMOZ0e6",
+                        "order": 2,
+                        "option": "Two Frame Tower - supports hybrid setups",
+                        "nodes": [
+                            {
+                                "key": "s7SMOZ2Yf",
+                                "order": 1,
+                                "variable": "frame = 1",
+                                "nodes": [
+                                    {
+                                        "key": "s7SMOZ047",
+                                        "order": 1,
+                                        "iKey": "s7SMPh1IK",
+                                        "nodes": [
+                                            {
+                                                "key": "s7SMOZ1EP",
+                                                "order": 1,
+                                                "option": "Next",
+                                                "iExitKey": "s7SMPh1IZ",
+                                                "variable": "frame = 2",
+                                                "nodes": [
+                                                    {
+                                                        "key": "s7SMOZ2XE",
+                                                        "order": 1,
+                                                        "iKey": "s7SMPh1IK",
+                                                        "nodes": [
+                                                            {
+                                                                "key": "s7SMOZ27C",
+                                                                "order": 1,
+                                                                "option": "Next",
+                                                                "iExitKey": "s7SMPh1IZ",
+                                                                "exitKey": "s7SMOZ0VN"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "s7SMOZ2KF",
+                        "order": 3,
+                        "option": "Four Frame Tower - maximum yield in minimal space",
+                        "nodes": [
+                            {
+                                "key": "s7SMOZ0nF",
+                                "order": 1,
+                                "variable": "frame = 1",
+                                "nodes": [
+                                    {
+                                        "key": "s7SMOZ0y7",
+                                        "order": 1,
+                                        "iKey": "s7SMPh1IK",
+                                        "nodes": [
+                                            {
+                                                "key": "s7SMOZ0S7",
+                                                "order": 1,
+                                                "option": "Next",
+                                                "iExitKey": "s7SMPh1IZ",
+                                                "variable": "frame = 2",
+                                                "nodes": [
+                                                    {
+                                                        "key": "s7SMOZ0uH",
+                                                        "order": 1,
+                                                        "iKey": "s7SMPh1IK",
+                                                        "nodes": [
+                                                            {
+                                                                "key": "s7SMOZ0ZO",
+                                                                "order": 1,
+                                                                "option": "Next",
+                                                                "iExitKey": "s7SMPh1IZ",
+                                                                "variable": "frame = 3",
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "s7SMOZ0Js",
+                                                                        "order": 1,
+                                                                        "iKey": "s7SMPh1IK",
+                                                                        "nodes": [
+                                                                            {
+                                                                                "key": "s7SMOZ1kQ",
+                                                                                "order": 1,
+                                                                                "option": "Next",
+                                                                                "iExitKey": "s7SMPh1IZ",
+                                                                                "variable": "frame = 4",
+                                                                                "nodes": [
+                                                                                    {
+                                                                                        "key": "s7SMOZ1TT",
+                                                                                        "order": 1,
+                                                                                        "iKey": "s7SMPh1IK",
+                                                                                        "nodes": [
+                                                                                            {
+                                                                                                "key": "s7SMOZ1VR",
+                                                                                                "order": 1,
+                                                                                                "option": "Next",
+                                                                                                "iExitKey": "s7SMPh1IZ",
+                                                                                                "exitKey": "s7SMOZ0VN"
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "s7SMOZ09D",
+                "order": 2,
+                "option": "mode details...",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-s7SMOZ0WV",
+            "relativePath": "./δ steps/δ-pvaPOf01P0.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ04o",
+            "relativePath": "./δ steps/δ-pv7Tr400j0.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ1be",
+            "relativePath": "./δ steps/δ-pv7aq201Z4.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ0CT",
+            "relativePath": "./δ steps/δ-q6eQvr026U.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ0e6",
+            "relativePath": "./δ steps/δ-pva7YY00Fz.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ2Yf",
+            "relativePath": "./δ steps/δ-q6g0hC027l.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ047",
+            "relativePath": "./δ steps/δ-q7Hysw01m9.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ1EP",
+            "relativePath": "./δ steps/δ-q7KmkG02Mw.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ2XE",
+            "relativePath": "./δ steps/δ-q7NdL200Mc.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ2KF",
+            "relativePath": "./δ steps/δ-pva7t100Lv.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ0nF",
+            "relativePath": "./δ steps/δ-q6hS8n006q.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ0y7",
+            "relativePath": "./δ steps/δ-q7NZCN020x.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ0S7",
+            "relativePath": "./δ steps/δ-q7SpZb02S1.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ0uH",
+            "relativePath": "./δ steps/δ-q7TKTu01lO.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ0ZO",
+            "relativePath": "./δ steps/δ-q7Tgit00Uo.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ0Js",
+            "relativePath": "./δ steps/δ-q7TkiR019Q.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ1kQ",
+            "relativePath": "./δ steps/δ-q7Tv8T01DH.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ1TT",
+            "relativePath": "./δ steps/δ-q7TwZn00F1.tsstp"
+        },
+        {
+            "key": "δ-s7SMOZ09D",
+            "relativePath": "./δ steps/δ-rqXbd500LJ.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "tCpvC7026m",
+        "editorID": "me_23017ce612ce4e8caed2e4b26f0b5f86",
+        "ticks": 1757322596379
+    }
+}

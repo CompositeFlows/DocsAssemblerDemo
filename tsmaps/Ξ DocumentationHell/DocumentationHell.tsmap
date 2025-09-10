@@ -1,0 +1,182 @@
+{
+    "key": "sIhxfx02EB  ",
+    "token": "Documentationhell",
+    "name": "DocumentationHell",
+    "created": "2025-08-29T18:47:04.477Z",
+    "list": true,
+    "publishFileName": "DocumentationHell",
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/Ξ DocumentationHell/DocumentationHell.tsmap",
+    "iText": "Link  to 'DocumentationHell' ",
+    "___rΩΩt___": {
+        "key": "sIi16r00h6",
+        "nodes": [
+            {
+                "key": "sYNvVu009z",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "syiEK300IB",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "sJQdSK00AY",
+                                "order": 1,
+                                "nodes": [
+                                    {
+                                        "key": "sPjJaF00Gq",
+                                        "order": 1,
+                                        "nodes": [
+                                            {
+                                                "key": "sPekVJ00fk",
+                                                "order": 1,
+                                                "nodes": [
+                                                    {
+                                                        "key": "sPilio00TB",
+                                                        "order": 1,
+                                                        "nodes": [
+                                                            {
+                                                                "key": "sSWMtK01cF",
+                                                                "order": 1,
+                                                                "option": "Show this step...",
+                                                                "isLeaf": true,
+                                                                "isAncillary": true
+                                                            },
+                                                            {
+                                                                "key": "tFEzMq00ti",
+                                                                "order": 2,
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "sPjcTq02Nd",
+                                                                        "order": 1,
+                                                                        "nodes": [
+                                                                            {
+                                                                                "key": "sSjdwd00Yd",
+                                                                                "order": 1,
+                                                                                "option": "Start the Lǜ Sēnlín Vertical Kitchen Garden Planner",
+                                                                                "isLeaf": true,
+                                                                                "iKey": "s7SMNM05c"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "key": "tFFBHl00W2",
+                                                                        "order": 2,
+                                                                        "option": "Why a Vertical Kitchen Garden?",
+                                                                        "isLeaf": true,
+                                                                        "isAncillary": true
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "key": "tM5xzz00FG",
+                                                        "order": 2,
+                                                        "option": "What are Hallucinations?",
+                                                        "isAncillary": true,
+                                                        "nodes": [
+                                                            {
+                                                                "key": "tMWvMy02Uj",
+                                                                "order": 1,
+                                                                "isLeaf": true
+                                                            },
+                                                            {
+                                                                "key": "tMX9B8015D",
+                                                                "order": 2,
+                                                                "option": "What are LLMs?",
+                                                                "isLeaf": true,
+                                                                "isAncillary": true
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "tEmJZ902RJ",
+                        "order": 2,
+                        "option": "What are Decision Trees?",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-sIi16r00h6",
+            "relativePath": "./δ steps/δ-sIi16r00h6.tsstp"
+        },
+        {
+            "key": "δ-sJQdSK00AY",
+            "relativePath": "./δ steps/δ-sJQdSK00AY.tsstp"
+        },
+        {
+            "key": "δ-sPekVJ00fk",
+            "relativePath": "./δ steps/δ-sPekVJ00fk.tsstp"
+        },
+        {
+            "key": "δ-sPilio00TB",
+            "relativePath": "./δ steps/δ-sPilio00TB.tsstp"
+        },
+        {
+            "key": "δ-sPjJaF00Gq",
+            "relativePath": "./δ steps/δ-sPjJaF00Gq.tsstp"
+        },
+        {
+            "key": "δ-sSWMtK01cF",
+            "relativePath": "./δ steps/δ-sSWMtK01cF.tsstp"
+        },
+        {
+            "key": "δ-sPjcTq02Nd",
+            "relativePath": "./δ steps/δ-sPjcTq02Nd.tsstp"
+        },
+        {
+            "key": "δ-sSjdwd00Yd",
+            "relativePath": "./δ steps/δ-sSjdwd00Yd.tsstp"
+        },
+        {
+            "key": "δ-sYNvVu009z",
+            "relativePath": "./δ steps/δ-sYNvVu009z.tsstp"
+        },
+        {
+            "key": "δ-syiEK300IB",
+            "relativePath": "./δ steps/δ-syiEK300IB.tsstp"
+        },
+        {
+            "key": "δ-tEmJZ902RJ",
+            "relativePath": "./δ steps/δ-tEmJZ902RJ.tsstp"
+        },
+        {
+            "key": "δ-tFEzMq00ti",
+            "relativePath": "./δ steps/δ-tFEzMq00ti.tsstp"
+        },
+        {
+            "key": "δ-tFFBHl00W2",
+            "relativePath": "./δ steps/δ-tFFBHl00W2.tsstp"
+        },
+        {
+            "key": "δ-tM5xzz00FG",
+            "relativePath": "./δ steps/δ-tM5xzz00FG.tsstp"
+        },
+        {
+            "key": "δ-tMWvMy02Uj",
+            "relativePath": "./δ steps/δ-tMWvMy02Uj.tsstp"
+        },
+        {
+            "key": "δ-tMX9B8015D",
+            "relativePath": "./δ steps/δ-tMX9B8015D.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "tMY0hQ01g8",
+        "editorID": "car_64ae6601b9f84b018bdb29ba30a6b7fe",
+        "ticks": 1757466090996
+    }
+}

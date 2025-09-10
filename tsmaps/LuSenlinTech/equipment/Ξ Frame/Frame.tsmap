@@ -1,0 +1,129 @@
+{
+    "key": "s7SMPh1IK   ",
+    "token": "Frame",
+    "name": "Frame",
+    "created": "2025-08-06T12:33:41.711Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/equipment/Ξ Frame/Frame.tsmap",
+    "iText": "Link to 'Frame'",
+    "iExits": [
+        {
+            "key": "s7SMPh1IZ",
+            "text": "Next",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "s7SMPh1bm",
+        "iKey": "s7LPpx1UH",
+        "nodes": [
+            {
+                "key": "s7SMPh1x2",
+                "order": 1,
+                "option": "Solo module",
+                "iExitKey": "s7LPpx0rd",
+                "variable": "module = 1",
+                "nodes": [
+                    {
+                        "key": "s7SMPh1Os",
+                        "order": 1,
+                        "iKey": "s7SMQM0ki",
+                        "nodes": [
+                            {
+                                "key": "s7SMPh0sD",
+                                "order": 1,
+                                "option": "Next",
+                                "iExitKey": "s7SMQM2ZQ",
+                                "exitKey": "s7SMPh1IZ"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "s7SMPh0nr",
+                "order": 2,
+                "option": "Dual modules",
+                "iExitKey": "s7LPpx09N",
+                "nodes": [
+                    {
+                        "key": "s7SMPh2Y4",
+                        "order": 1,
+                        "variable": "module = 1",
+                        "nodes": [
+                            {
+                                "key": "s7SMPh1H4",
+                                "order": 1,
+                                "iKey": "s7SMPw0xn",
+                                "nodes": [
+                                    {
+                                        "key": "s7SMPh0J5",
+                                        "order": 1,
+                                        "option": "Next",
+                                        "iExitKey": "s7SMPw1Te",
+                                        "variable": "module = 2",
+                                        "nodes": [
+                                            {
+                                                "key": "s7SMPh2Wn",
+                                                "order": 1,
+                                                "iKey": "s7SMPw0xn",
+                                                "nodes": [
+                                                    {
+                                                        "key": "s7SMPh1GB",
+                                                        "order": 1,
+                                                        "option": "Next",
+                                                        "iExitKey": "s7SMPw1Te",
+                                                        "exitKey": "s7SMPh1IZ"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-s7SMPh1bm",
+            "relativePath": "./δ steps/δ-q6htvc02LO.tsstp"
+        },
+        {
+            "key": "δ-s7SMPh1x2",
+            "relativePath": "./δ steps/δ-q6i2Ta00Bt.tsstp"
+        },
+        {
+            "key": "δ-s7SMPh1Os",
+            "relativePath": "./δ steps/δ-q6imCX01qm.tsstp"
+        },
+        {
+            "key": "δ-s7SMPh0nr",
+            "relativePath": "./δ steps/δ-q79JOK02QB.tsstp"
+        },
+        {
+            "key": "δ-s7SMPh2Y4",
+            "relativePath": "./δ steps/δ-q6i2Ta02M5.tsstp"
+        },
+        {
+            "key": "δ-s7SMPh1H4",
+            "relativePath": "./δ steps/δ-q746iw01l6.tsstp"
+        },
+        {
+            "key": "δ-s7SMPh0J5",
+            "relativePath": "./δ steps/δ-qHviHf02UO.tsstp"
+        },
+        {
+            "key": "δ-s7SMPh2Wn",
+            "relativePath": "./δ steps/δ-qHvj8N02TX.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "tDPgFb02Gc",
+        "editorID": "car_cd7d5a532a604bd086bff7a17b2d7a4c",
+        "ticks": 1757331118743
+    }
+}

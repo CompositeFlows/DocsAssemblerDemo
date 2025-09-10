@@ -1,0 +1,91 @@
+{
+    "key": "s7SMXt0ol",
+    "token": "Power",
+    "name": "Power",
+    "created": "2025-08-24T17:11:11.124Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/equipment/Ξ Power/Power.tsmap",
+    "iText": "Link to 'Power'",
+    "iExits": [
+        {
+            "key": "s7SMXt1dV",
+            "text": "Has power supply",
+            "order": 1
+        },
+        {
+            "key": "s7SMXt0Xu",
+            "text": "No power supply",
+            "order": 2
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "s7SMXt0LX",
+        "nodes": [
+            {
+                "key": "s7SMXt1Q2",
+                "order": 1,
+                "option": "Yes",
+                "exitKey": "s7SMXt1dV"
+            },
+            {
+                "key": "s7SMXt10X",
+                "order": 2,
+                "option": "No",
+                "nodes": [
+                    {
+                        "key": "s7SMXt1yC",
+                        "order": 1,
+                        "option": "SolisCell™",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "s7SMXt1VA",
+                        "order": 2,
+                        "nodes": [
+                            {
+                                "key": "s7SMXt1DT",
+                                "order": 1,
+                                "nodes": [
+                                    {
+                                        "key": "s7SMXt2Ou",
+                                        "order": 1,
+                                        "option": "No power supply - needs battery etc.",
+                                        "exitKey": "s7SMXt0Xu"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-s7SMXt0LX",
+            "relativePath": "./δ steps/δ-rp5DqE01uW.tsstp"
+        },
+        {
+            "key": "δ-s7SMXt10X",
+            "relativePath": "./δ steps/δ-rp5jwF00iO.tsstp"
+        },
+        {
+            "key": "δ-s7SMXt1yC",
+            "relativePath": "./δ steps/δ-rpatdV01Z4.tsstp"
+        },
+        {
+            "key": "δ-s7SMXt1VA",
+            "relativePath": "./δ steps/δ-rpmUDR01oz.tsstp"
+        },
+        {
+            "key": "δ-s7SMXt1DT",
+            "relativePath": "./δ steps/δ-rpnFwa01HC.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "rpwGbP00jJ",
+        "editorID": "car_978f216b886b4ea5803db4ccc6171f5b",
+        "ticks": 1756068120079
+    }
+}

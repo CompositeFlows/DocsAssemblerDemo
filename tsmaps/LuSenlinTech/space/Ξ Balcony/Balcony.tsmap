@@ -1,0 +1,140 @@
+{
+    "key": "s7LPkv1Gh   ",
+    "token": "Balcony",
+    "name": "Balcony",
+    "created": "2025-07-30T11:54:19.553Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/space/Ξ Balcony/Balcony.tsmap",
+    "iText": "Link to 'Balcony'",
+    "___rΩΩt___": {
+        "key": "s7LPkv17x",
+        "nodes": [
+            {
+                "key": "s7LPkv07Q",
+                "order": 1,
+                "iKey": "s7LPr60IG",
+                "nodes": [
+                    {
+                        "key": "s7LPkv0T6",
+                        "order": 1,
+                        "option": "Next",
+                        "iExitKey": "s7LPr60ZH",
+                        "nodes": [
+                            {
+                                "key": "s7LPkv1yE",
+                                "order": 1,
+                                "iKey": "s7LPoO1sh",
+                                "variable": "clientEffort",
+                                "nodes": [
+                                    {
+                                        "key": "s7LPkv1Np",
+                                        "order": 1,
+                                        "option": "Low effort",
+                                        "iExitKey": "s7LPoO19j",
+                                        "nodes": [
+                                            {
+                                                "key": "s7LPkv01W",
+                                                "order": 1,
+                                                "iKey": "s7SMOZ0AN",
+                                                "nodes": [
+                                                    {
+                                                        "key": "s7LPkv0FM",
+                                                        "order": 1,
+                                                        "option": "Next",
+                                                        "iKey": "s7SMXt0ol",
+                                                        "iExitKey": "s7SMOZ0VN",
+                                                        "nodes": [
+                                                            {
+                                                                "key": "s7LPkv1H7",
+                                                                "order": 1,
+                                                                "option": "Has power supply",
+                                                                "isLeaf": true,
+                                                                "iExitKey": "s7SMXt1dV"
+                                                            },
+                                                            {
+                                                                "key": "s7LPkv2U6",
+                                                                "order": 2,
+                                                                "option": "No power supply",
+                                                                "isLeaf": true,
+                                                                "iExitKey": "s7SMXt0Xu"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "key": "s7LPkv1Ye",
+                                        "order": 2,
+                                        "option": "Moderate effort",
+                                        "isLeaf": true,
+                                        "iExitKey": "s7LPoO04R"
+                                    },
+                                    {
+                                        "key": "s7LPkv2b0",
+                                        "order": 3,
+                                        "option": "High effort\n",
+                                        "isLeaf": true,
+                                        "iExitKey": "s7LPoO2Y3"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-s7LPkv17x",
+            "relativePath": "./δ steps/δ-pRcLec01Z2.tsstp"
+        },
+        {
+            "key": "δ-s7LPkv07Q",
+            "relativePath": "./δ steps/δ-q944wV00LG.tsstp"
+        },
+        {
+            "key": "δ-s7LPkv0T6",
+            "relativePath": "./δ steps/δ-q94B4N00RT.tsstp"
+        },
+        {
+            "key": "δ-s7LPkv1yE",
+            "relativePath": "./δ steps/δ-rqVv4l00yw.tsstp"
+        },
+        {
+            "key": "δ-s7LPkv1Np",
+            "relativePath": "./δ steps/δ-rqW3KW00sS.tsstp"
+        },
+        {
+            "key": "δ-s7LPkv1Ye",
+            "relativePath": "./δ steps/δ-rqW3KW01X5.tsstp"
+        },
+        {
+            "key": "δ-s7LPkv2b0",
+            "relativePath": "./δ steps/δ-rqW3KW015m.tsstp"
+        },
+        {
+            "key": "δ-s7LPkv01W",
+            "relativePath": "./δ steps/δ-rqosUK01Bl.tsstp"
+        },
+        {
+            "key": "δ-s7LPkv0FM",
+            "relativePath": "./δ steps/δ-rqpliI019O.tsstp"
+        },
+        {
+            "key": "δ-s7LPkv1H7",
+            "relativePath": "./δ steps/δ-rqpprh009d.tsstp"
+        },
+        {
+            "key": "δ-s7LPkv2U6",
+            "relativePath": "./δ steps/δ-rqpprh00ab.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "tCrH7a00oo",
+        "editorID": "me_e08b33ea08c2433eb3193528316c2de3",
+        "ticks": 1757322918994
+    }
+}
