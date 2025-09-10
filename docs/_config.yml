@@ -6,10 +6,10 @@ title: Docs Assembler demo guides
 markdown_ext: markdown,tsfrg,md
 
 # Set default layout for all pages and posts
-defaults:
-  - scope:
-      path: "" # Empty string means all files
-    values:
-      layout: "simple" # Your layout name (without .html extension)
+# defaults:
+#   - scope:
+#       path: "" # Empty string means all files
+#     values:
+#       layout: "simple" # Your layout name (without .html extension)
 
 
