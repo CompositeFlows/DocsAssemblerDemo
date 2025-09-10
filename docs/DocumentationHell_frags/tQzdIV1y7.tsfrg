@@ -1,0 +1,34 @@
+---
+layout: null
+permalink: /DocumentationHell_frags/tQzdIV1y7.html
+---
+
+
+<!-- tsFragmentRenderComment {"id":"tQzdIV1y7","topLevelMapKey":"sIhxfx02EB","mapKeyChain":"sIhxfx02EB","guideID":"tQzdGN0rX","guidePath":"c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/DocumentationHell.tsmap","parentFragmentID":"tQzdIE2K1","chartKey":"sIhxfx02EB","isLeaf":false,"options":[{"id":"tQzdIj06G","option":"Next","order":1}]} -->
+
+### See How This Page Was Built
+
+This page isn't just text; it's a live demonstration assembled by Docs Assembler. The image below shows how the step "This Website is One Guide" is constructed in Visual Studio Code using the extension Docs Assembler.
+
+[<img class="nt-fr-big-image" src="/assets/images/ThisWebsiteIsOneGuide.png">](/assets/images/ThisWebsiteIsOneGuide.png){: .main-image}
+
+###### What to notice:  
+
+*   **Left (File Explorer):** The `DocumentationHell.tsmap` file is selected, showing the guide's structure.
+*   **Center (Map View):** The step "**This website is One Guide**" is selected in the Map Editor.
+*   **Right (Markdown Editor):** The content of that specific step is open for editing.
+
+###### The Power of Variables:
+  
+Look at the image Markdown: **`[<img class="nt-fr-big-image" src="/assets/images/ThisWebsiteIsOneGuide.png">](/assets/images/ThisWebsiteIsOneGuide.png)`**
+
+This isn't a hard-coded link. It's a **variable**. This means: 
+
+1.  **One Source of Truth:** We chose to store all image URLs in a single, central file, then import at the top of any file tha needs to reference one of its variables:
+
+    ```json
+    import ll from "../../shared/imageLinks"
+    ```
+
+2.  **Easy Maintenance:** If an image's location changes, we update it in that one variable file. The change automatically propagates everywhere the variable is used, ensuring consistency, reducing errors, and saving hours of manual search-and-replace.
+

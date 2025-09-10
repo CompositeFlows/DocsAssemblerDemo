@@ -24,19 +24,14 @@ Here is the `imageLinks` variable file itself. Notice how you can even reference
 This is a simple but powerful example of how Docs Assembler applies software engineering principles—like encapsulation, single source of truth, and robust tooling—to documentation.
 
 ###### Diagnostics
+
 The system actively monitors for errors in real-time. If you reference a variable that doesn't exist, Docs Assembler immediately flags it with a clear diagnostic warning, preventing publication and guiding you to fix the issue.
 
-###### Example:
+**Example:**
 
 The element below tries to reference the 'il.variable-does-not-exist'. Since this variable is not defined in the `imageLinks` file, the system generates a precise error, ensuring content remains accurate and build processes aren't broken by missing references.
 
 {{il.fullDiagnosticsAndIntellisense_image}}
 
 This is a simple but powerful example of how Docs Assembler applies software engineering principles—like encapsulation, single source of truth, and robust tooling—to documentation.
-
-
-
-
-
-
 
