@@ -4,8 +4,8 @@
     "name": "DocumentationHell",
     "created": "2025-08-29T18:47:04.477Z",
     "list": true,
-    "publishFileName": "index",
-    "cachedPath": "c:/GitHub/DocsAssemblerDemo/tsmaps/Ξ DocumentationHell/DocumentationHell.tsmap",
+    "publishFileName": "DocumentationHell",
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/Ξ DocumentationHell/DocumentationHell.tsmap",
     "iText": "Link  to 'DocumentationHell' ",
     "___rΩΩt___": {
         "key": "sIi16r00h6",
@@ -38,8 +38,15 @@
                                                                 "key": "sSWMtK01cF",
                                                                 "order": 1,
                                                                 "option": "Show this step...",
-                                                                "isLeaf": true,
-                                                                "isAncillary": true
+                                                                "isAncillary": true,
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "tPpznv01Q7",
+                                                                        "order": 1,
+                                                                        "option": "Next",
+                                                                        "isLeaf": true
+                                                                    }
+                                                                ]
                                                             },
                                                             {
                                                                 "key": "tFEzMq00ti",
@@ -172,11 +179,15 @@
         {
             "key": "δ-tMX9B8015D",
             "relativePath": "./δ steps/δ-tMX9B8015D.tsstp"
+        },
+        {
+            "key": "δ-tPpznv01Q7",
+            "relativePath": "./δ steps/δ-tPpznv01Q7.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "tPQtg702HU",
-        "editorID": "car_5dd40b7973dd481a849baa00c6c4f477",
-        "ticks": 1757508724719
+        "id": "tQQ28v02No",
+        "editorID": "me_5dd40b7973dd481a849baa00c6c4f477",
+        "ticks": 1757523295265
     }
 }

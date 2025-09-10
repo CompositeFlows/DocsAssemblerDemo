@@ -6,6 +6,15 @@
 ¬logo_outline_url: ../assets/images/netOfTreesIconOutline.png
 ¬logo_outline_image: [<img class="nt-fr-logo" src="{{logo_outline_url}}">]({{logo_outline_url}})
 
-¬whatIsTheUltimateAim_url: ../assets/images/ThisWebsiteIsTheGuide.png
-¬whatIsTheUltimateAim_image: [<img class="nt-fr-big-image" src="{{whatIsTheUltimateAim_url}}">]({{whatIsTheUltimateAim_url}})
+¬thisWebsiteIsOneGuide_url: ../assets/images/ThisWebsiteIsOneGuide.png
+¬thisWebsiteIsOneGuide_image: [<img class="nt-fr-big-image" src="{{thisWebsiteIsOneGuide_url}}">]({{thisWebsiteIsOneGuide_url}})
+
+¬goToVariableDefinition_url: ../assets/images/GoToVariableDefinition.png
+¬goToVariableDefinition_image: [<img class="nt-fr-big-image" src="{{goToVariableDefinition_url}}">]({{thisWebsiteIsOneGuide_url}})
+
+¬imageLinksFile_url: ../assets/images/ImageLinksFile.png
+¬imageLinksFile_image: [<img class="nt-fr-big-image" src="{{imageLinksFile_url}}">]({{thisWebsiteIsOneGuide_url}})
+
+¬fullDiagnosticsAndIntellisense_url: ../assets/images/FullDiagnosticsAndIntellisense.png
+¬fullDiagnosticsAndIntellisense_image: [<img class="nt-fr-big-image" src="{{fullDiagnosticsAndIntellisense_url}}">]({{thisWebsiteIsOneGuide_url}})
 
