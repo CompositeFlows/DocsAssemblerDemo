@@ -4,8 +4,8 @@
     "name": "DocumentationHell",
     "created": "2025-08-29T18:47:04.477Z",
     "list": true,
-    "publishFileName": "DocumentationHell",
-    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/Ξ DocumentationHell/DocumentationHell.tsmap",
+    "publishFileName": "index",
+    "cachedPath": "c:/GitHub/DocsAssemblerDemo/tsmaps/Ξ DocumentationHell/DocumentationHell.tsmap",
     "iText": "Link  to 'DocumentationHell' ",
     "___rΩΩt___": {
         "key": "sIi16r00h6",
@@ -175,8 +175,8 @@
         }
     ],
     "___εdit___": {
-        "id": "tMY0hQ01g8",
-        "editorID": "car_64ae6601b9f84b018bdb29ba30a6b7fe",
-        "ticks": 1757466090996
+        "id": "tPQtg702HU",
+        "editorID": "car_5dd40b7973dd481a849baa00c6c4f477",
+        "ticks": 1757508724719
     }
 }
