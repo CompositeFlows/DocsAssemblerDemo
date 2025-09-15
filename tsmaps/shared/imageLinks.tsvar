@@ -9,12 +9,27 @@
 ¬thisWebsiteIsOneGuide_url: ../assets/images/ThisWebsiteIsOneGuide.png
 ¬thisWebsiteIsOneGuide_image: [<img class="nt-fr-big-image" src="{{thisWebsiteIsOneGuide_url}}">]({{thisWebsiteIsOneGuide_url}})
 
+¬showThisStepAncillary_url: ../assets/images/ShowThisStepAncillary.png
+¬showThisStepAncillary_image: [<img class="nt-fr-mid-image" src="{{showThisStepAncillary_url}}">]({{showThisStepAncillary_url}})
+
+¬thisWebsiteIsOneGuideVariable_url: ../assets/images/ThisWebsiteIsOneGuideVariable.png
+¬thisWebsiteIsOneGuideVariable_image: [<img class="nt-fr-mid-image" src="{{thisWebsiteIsOneGuideVariable_url}}">]({{thisWebsiteIsOneGuideVariable_url}})
+
+¬thisWebsiteIsOneGuideVariableDefinition_url: ../assets/images/ThisWebsiteIsOneGuideVariableDefinition.png
+¬thisWebsiteIsOneGuideVariableDefinition_image: [<img class="nt-fr-mid-image" src="{{thisWebsiteIsOneGuideVariableDefinition_url}}">]({{thisWebsiteIsOneGuideVariableDefinition_url}})
+
+¬thisWebsiteIsOneGuideImageHtml_url: ../assets/images/ThisWebsiteIsOneGuideImageHtml.png
+¬thisWebsiteIsOneGuideImageHtml_image: [<img class="nt-fr-big-image" src="{{thisWebsiteIsOneGuideImageHtml_url}}">]({{thisWebsiteIsOneGuideImageHtml_url}})
+
+¬imageLinksFileImport_url: ../assets/images/ImageLinksFileImport.png
+¬imageLinksFileImport_image: [<img class="nt-fr-mid-image" src="{{imageLinksFileImport_url}}">]({{imageLinksFileImport_url}})
+
 ¬goToVariableDefinition_url: ../assets/images/GoToVariableDefinition.png
-¬goToVariableDefinition_image: [<img class="nt-fr-big-image" src="{{goToVariableDefinition_url}}">]({{thisWebsiteIsOneGuide_url}})
+¬goToVariableDefinition_image: [<img class="nt-fr-mid-image" src="{{goToVariableDefinition_url}}">]({{goToVariableDefinition_url}})
 
 ¬imageLinksFile_url: ../assets/images/ImageLinksFile.png
-¬imageLinksFile_image: [<img class="nt-fr-big-image" src="{{imageLinksFile_url}}">]({{thisWebsiteIsOneGuide_url}})
+¬imageLinksFile_image: [<img class="nt-fr-mid-image" src="{{imageLinksFile_url}}">]({{imageLinksFile_url}})
 
 ¬fullDiagnosticsAndIntellisense_url: ../assets/images/FullDiagnosticsAndIntellisense.png
-¬fullDiagnosticsAndIntellisense_image: [<img class="nt-fr-big-image" src="{{fullDiagnosticsAndIntellisense_url}}">]({{thisWebsiteIsOneGuide_url}})
+¬fullDiagnosticsAndIntellisense_image: [<img class="nt-fr-mid-image" src="{{fullDiagnosticsAndIntellisense_url}}">]({{fullDiagnosticsAndIntellisense_url}})
 

@@ -1,15 +1,17 @@
 ¬import il from "../../shared/imageLinks"
 
 
-#### Full Diagnostics and Intellisense
+### Full Diagnostics and Intellisense
 
-This isn't just a simple text substitution. Docs Assembler provides full language support:
+**Docs Assembler** provides full language support:
 
-###### Validation
+##### Validation
 
-The import statement is rigorously validated. The system checks that the file exists and is free of errors before you can publish.
+- **Import statements"" - checks that the statement is well formed and the file path points to an existing file and the file is free of errors.
+- **Variable references"" - checks that it is well formed and the alias points to a valid import statement, and the variable exists within that imported file.
+- **Variable definitions"" - cchecks it is well-formed and if it is relative url is checks the file exists.
 
-###### Intellisense
+##### Intellisense
 
 As you type, you get code completion help to build both the import statement and the variable references correctly, dramatically reducing typos and errors.
 
@@ -17,21 +19,19 @@ You can easily navigate and understand your entire system. Right-clicking on any
 
 {{il.goToVariableDefinition_image}}
 
-Here is the `imageLinks` variable file itself. Notice how you can even reference variables *within* other variable definitions, creating a powerful, reusable hierarchy of content.
+Here is the *imageLinks.tsvar* variable file itself. Notice how you can even reference variables *within* other variable definitions, creating a powerful, reusable hierarchy of content.
 
 {{il.imageLinksFile_image}}
 
-This is a simple but powerful example of how Docs Assembler applies software engineering principles—like encapsulation, single source of truth, and robust tooling—to documentation.
+##### Diagnostics
 
-###### Diagnostics
+The system actively monitors for errors in real-time. If you reference a variable that doesn't exist, or a local url doesn't point to an existing file, Docs Assembler immediately flags it with a clear diagnostic warning, preventing publication and guiding you to fix the issue.
 
-The system actively monitors for errors in real-time. If you reference a variable that doesn't exist, Docs Assembler immediately flags it with a clear diagnostic warning, preventing publication and guiding you to fix the issue.
+###### Example:
 
-**Example:**
-
-The element below tries to reference the 'il.variable-does-not-exist'. Since this variable is not defined in the `imageLinks` file, the system generates a precise error, ensuring content remains accurate and build processes aren't broken by missing references.
+The element below tries to reference the 'il.variable-does-not-exist'. Since this variable is not defined in the *imageLinks.tsvar* file, the system generates a precise error, ensuring content remains accurate and build processes aren't broken by missing references.
 
 {{il.fullDiagnosticsAndIntellisense_image}}
 
-This is a simple but powerful example of how Docs Assembler applies software engineering principles—like encapsulation, single source of truth, and robust tooling—to documentation.
+This is a simple but powerful example of how Docs Assembler applies software engineering principles — like encapsulation, single source of truth, and robust tooling — to documentation.
 

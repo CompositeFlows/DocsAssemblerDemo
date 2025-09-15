@@ -41,10 +41,22 @@
                                                                 "isAncillary": true,
                                                                 "nodes": [
                                                                     {
-                                                                        "key": "tPpznv01Q7",
+                                                                        "key": "tsH6aH02Cy",
                                                                         "order": 1,
-                                                                        "option": "Next",
-                                                                        "isLeaf": true
+                                                                        "nodes": [
+                                                                            {
+                                                                                "key": "tPpznv01Q7",
+                                                                                "order": 1,
+                                                                                "isLeaf": true
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "key": "tsGweR01gj",
+                                                                        "order": 2,
+                                                                        "option": "How this works...",
+                                                                        "isLeaf": true,
+                                                                        "isAncillary": true
                                                                     }
                                                                 ]
                                                             },
@@ -183,11 +195,19 @@
         {
             "key": "δ-tPpznv01Q7",
             "relativePath": "./δ steps/δ-tPpznv01Q7.tsstp"
+        },
+        {
+            "key": "δ-tsGweR01gj",
+            "relativePath": "./δ steps/δ-tsGweR01gj.tsstp"
+        },
+        {
+            "key": "δ-tsH6aH02Cy",
+            "relativePath": "./δ steps/δ-tsH6aH02Cy.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "tPq2D202Ut",
-        "editorID": "car_d4fbc450d12843b6b0d9b32ae1d759b7",
-        "ticks": 1757514715712
+        "id": "tsHWw701GI",
+        "editorID": "me_47d42c33ede145b2a0b5c2c0f99dd969",
+        "ticks": 1757935006091
     }
 }
