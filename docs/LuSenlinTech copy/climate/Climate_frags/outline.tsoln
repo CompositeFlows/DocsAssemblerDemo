@@ -1,0 +1,84 @@
+{
+    "v": "1",
+    "r": {
+        "i": "tvOT6r1Bp",
+        "n": "s7LPr62Sr",
+        "o": [
+            {
+                "i": "tvOT721My",
+                "n": "s7LPr62N4",
+                "c": 0,
+                "o": [
+                    {
+                        "i": "tvOT721mH",
+                        "n": "s7LPr61rb",
+                        "x": "s7LPkr1rO",
+                        "_x": "s7LPr60ZH"
+                    }
+                ]
+            },
+            {
+                "i": "tvOT7R26L",
+                "n": "s7LPr629C",
+                "c": 0,
+                "o": [
+                    {
+                        "i": "tvOT7R1xJ",
+                        "n": "s7LPr61cY",
+                        "x": "s7LPkr1rO",
+                        "_x": "s7LPr60ZH"
+                    }
+                ]
+            },
+            {
+                "i": "tvOT7m2PL",
+                "n": "s7LPr62Ye",
+                "c": 0,
+                "o": [
+                    {
+                        "i": "tvOT7m1WG",
+                        "n": "s7LPr60Xt",
+                        "x": "s7LPkr1rO",
+                        "_x": "s7LPr60ZH"
+                    }
+                ]
+            },
+            {
+                "i": "tvOT830UQ",
+                "n": "s7LPr61b5",
+                "c": 0,
+                "o": [
+                    {
+                        "i": "tvOT830ul",
+                        "n": "s7LPr61v2",
+                        "x": "s7LPkr1rO",
+                        "_x": "s7LPr60ZH"
+                    }
+                ]
+            },
+            {
+                "i": "tvOT8M0Gx",
+                "n": "s7LPr60xE",
+                "c": 0,
+                "o": [
+                    {
+                        "i": "tvOT8M2Io",
+                        "n": "s7LPr60O2",
+                        "x": "s7LPkr1rO",
+                        "_x": "s7LPr60ZH"
+                    }
+                ]
+            }
+        ]
+    },
+    "c": [
+        {
+            "i": "s7LPkr2IB",
+            "p": "LuSenlinTech/climate/WinterTemperatures_frags"
+        }
+    ],
+    "e": 1,
+    "mv": {
+        "spaceDisplayText": "space"
+    }
+}
