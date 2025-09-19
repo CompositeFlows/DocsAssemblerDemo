@@ -1,0 +1,7 @@
+¬import el from "../../../shared/externalLinks"
+
+
+**Dive into the guide below.** As you configure a garden — choosing frame size, modules, and crops — observe how {{el.docsAssemblerExtension_link}} manages intricate decision logic. Each option spawns a new branch, and with every level you progress, those branches increase exponentially.
+
+Without a '**Single Source of Truth**', this complexity would create an unmanageable mess. Yet here, updates are effortless and consistent across the entire knowledge base.
+
