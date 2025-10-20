@@ -21,8 +21,8 @@
                 "key": "s7SMPh1x2",
                 "order": 1,
                 "option": "Solo module",
+                "sharedAssetKey": "uXhN5W01R6",
                 "iExitKey": "s7LPpx0rd",
-                "variable": "module = 1",
                 "nodes": [
                     {
                         "key": "s7SMPh1Os",
@@ -43,13 +43,14 @@
             {
                 "key": "s7SMPh0nr",
                 "order": 2,
-                "option": "Dual modules",
+                "option": "Twin modules",
+                "sharedAssetKey": "uXhbzW01SZ",
                 "iExitKey": "s7LPpx09N",
                 "nodes": [
                     {
                         "key": "s7SMPh2Y4",
                         "order": 1,
-                        "variable": "module = 1",
+                        "variable": "twin = A",
                         "nodes": [
                             {
                                 "key": "s7SMPh1H4",
@@ -61,7 +62,7 @@
                                         "order": 1,
                                         "option": "Next",
                                         "iExitKey": "s7SMPw1Te",
-                                        "variable": "module = 2",
+                                        "variable": "twin = B",
                                         "nodes": [
                                             {
                                                 "key": "s7SMPh2Wn",
@@ -93,16 +94,13 @@
             "relativePath": "./δ steps/δ-q6htvc02LO.tsstp"
         },
         {
-            "key": "δ-s7SMPh1x2",
-            "relativePath": "./δ steps/δ-q6i2Ta00Bt.tsstp"
+            "key": "uXhN5W01R6",
+            "relativePath": "../../../../../../../../C:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/equipment/_shared/MonoModuleTitle.tsstp",
+            "isShared": true
         },
         {
             "key": "δ-s7SMPh1Os",
             "relativePath": "./δ steps/δ-q6imCX01qm.tsstp"
-        },
-        {
-            "key": "δ-s7SMPh0nr",
-            "relativePath": "./δ steps/δ-q79JOK02QB.tsstp"
         },
         {
             "key": "δ-s7SMPh2Y4",
@@ -119,11 +117,16 @@
         {
             "key": "δ-s7SMPh2Wn",
             "relativePath": "./δ steps/δ-qHvj8N02TX.tsstp"
+        },
+        {
+            "key": "uXhbzW01SZ",
+            "relativePath": "../../../../../../../../C:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/equipment/_shared/DuoModuleTitle#.tsstp",
+            "isShared": true
         }
     ],
     "___εdit___": {
-        "id": "tDPgFb02Gc",
-        "editorID": "car_cd7d5a532a604bd086bff7a17b2d7a4c",
-        "ticks": 1757331118743
+        "id": "xAoIFE01ww",
+        "editorID": "car_e87ac98c18824892845054c32eb924e5",
+        "ticks": 1760957186984
     }
 }

@@ -1,0 +1,57 @@
+{
+    "key": "wtRvcU00Xt  ",
+    "token": "Tubers",
+    "name": "Tubers",
+    "created": "2025-10-17T11:30:59.086Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Crops/Ξ Tubers/Tubers.tsmap",
+    "iText": "Link to 'Tubers'",
+    "iExits": [
+        {
+            "key": "wtTsxD00hr",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "wtS1WU029T",
+        "variable": "crop",
+        "nodes": [
+            {
+                "key": "wtSOzr01VF",
+                "order": 1,
+                "option": "Baby Sweet Potato ‘Pocket Yama’",
+                "exitKey": "wtTsxD00hr"
+            },
+            {
+                "key": "wtSS5y00HQ",
+                "order": 2,
+                "option": "Baby Ginger ‘Zingy Core’",
+                "exitKey": "wtTsxD00hr"
+            },
+            {
+                "key": "wtSTh501sL",
+                "order": 3,
+                "option": "Young Lotus Root ‘Urban Lotus’",
+                "exitKey": "wtTsxD00hr"
+            },
+            {
+                "key": "wtSVLH01Ke",
+                "order": 4,
+                "option": "Dwarf Taro ‘Taro-Tiny’",
+                "exitKey": "wtTsxD00hr"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-wtS1WU029T",
+            "relativePath": "./δ steps/δ-wtS1WU029T.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "xBZqyD02GR",
+        "editorID": "car_f6d05e65c6194609a2e0924685bf6e92",
+        "ticks": 1760968521885
+    }
+}

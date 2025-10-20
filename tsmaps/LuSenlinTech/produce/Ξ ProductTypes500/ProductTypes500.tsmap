@@ -31,7 +31,7 @@
                                 "key": "s7SMPw1Ce",
                                 "order": 1,
                                 "sharedAssetKey": "t93qOs00Oe",
-                                "variable": "cropChoice",
+                                "variable": "cropCategory",
                                 "nodes": [
                                     {
                                         "key": "s7SMPw1gK",
@@ -43,62 +43,14 @@
                                             {
                                                 "key": "s7SMPw0qZ",
                                                 "order": 1,
-                                                "iKey": "s7LPsx1UQ",
+                                                "iKey": "wqSrAG00n4",
                                                 "nodes": [
                                                     {
-                                                        "key": "s7SMPw0wW",
+                                                        "key": "wqTjpZ00iy",
                                                         "order": 1,
-                                                        "option": "Next",
-                                                        "iExitKey": "s7LPsx14a",
-                                                        "variable": "herbBay2",
-                                                        "nodes": [
-                                                            {
-                                                                "key": "s7SMPw280",
-                                                                "order": 1,
-                                                                "iKey": "s7LPsx1UQ",
-                                                                "nodes": [
-                                                                    {
-                                                                        "key": "s7SMPw0l9",
-                                                                        "order": 1,
-                                                                        "option": "Next",
-                                                                        "iExitKey": "s7LPsx14a",
-                                                                        "variable": "herbBay3",
-                                                                        "nodes": [
-                                                                            {
-                                                                                "key": "s7SMPw1Lw",
-                                                                                "order": 1,
-                                                                                "iKey": "s7LPsx1UQ",
-                                                                                "nodes": [
-                                                                                    {
-                                                                                        "key": "s7SMPw0Ps",
-                                                                                        "order": 1,
-                                                                                        "option": "Next",
-                                                                                        "iExitKey": "s7LPsx14a",
-                                                                                        "variable": "herbBay4",
-                                                                                        "nodes": [
-                                                                                            {
-                                                                                                "key": "s7SMPw19L",
-                                                                                                "order": 1,
-                                                                                                "iKey": "s7LPsx1UQ",
-                                                                                                "nodes": [
-                                                                                                    {
-                                                                                                        "key": "s7SMPw19Z",
-                                                                                                        "order": 1,
-                                                                                                        "option": "Next",
-                                                                                                        "iExitKey": "s7LPsx14a",
-                                                                                                        "exitKey": "s7SMPw1Te"
-                                                                                                    }
-                                                                                                ]
-                                                                                            }
-                                                                                        ]
-                                                                                    }
-                                                                                ]
-                                                                            }
-                                                                        ]
-                                                                    }
-                                                                ]
-                                                            }
-                                                        ]
+                                                        "option": "Exit",
+                                                        "iExitKey": "wqTeGi01qL",
+                                                        "exitKey": "s7SMPw1Te"
                                                     }
                                                 ]
                                             }
@@ -108,80 +60,21 @@
                                         "key": "s7SMPw2X6",
                                         "order": 2,
                                         "option": "Leafy greens",
-                                        "sharedAssetKey": "t94cmQ00Fm",
-                                        "variable": "leafyGreens",
+                                        "sharedAssetKey": "wtGg7100cy",
                                         "nodes": [
                                             {
-                                                "key": "s7SMPw0Si",
+                                                "key": "wstONd00R7",
                                                 "order": 1,
-                                                "option": "Skyline Romaine",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1BO",
-                                                "order": 2,
-                                                "option": "Nano-Kale ‘BlueFin’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1vv",
-                                                "order": 3,
-                                                "option": "Dwarf Bok-Choy ‘Pearl’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1dB",
-                                                "order": 4,
-                                                "option": "Butterhead Lettuce ‘Silk-Butter’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2Mr",
-                                                "order": 5,
-                                                "option": "Tatsoi ‘Sprint’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1NX",
-                                                "order": 6,
-                                                "option": "Komatsuna ‘Metro-Spin’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw18N",
-                                                "order": 7,
-                                                "option": "Rainbow Swiss Chard ‘Pixel-Stem’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0ti",
-                                                "order": 8,
-                                                "option": "Spinach ‘HeatGuard’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2GS",
-                                                "order": 9,
-                                                "option": "Mizuna ‘Fringe’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0dm",
-                                                "order": 10,
-                                                "option": "Arugula ‘Rocket-Flash’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw04y",
-                                                "order": 11,
-                                                "option": "Red Leaf Lettuce ‘Ruby Drift’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0Y1",
-                                                "order": 12,
-                                                "option": "Watercress ‘Hydro-Pepper’",
-                                                "exitKey": "s7SMPw1Te"
+                                                "iKey": "wsqXK702Nl",
+                                                "nodes": [
+                                                    {
+                                                        "key": "wstUdl01Nm",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "wss8h901vX",
+                                                        "exitKey": "s7SMPw1Te"
+                                                    }
+                                                ]
                                             }
                                         ]
                                     },
@@ -189,80 +82,21 @@
                                         "key": "s7SMPw0nf",
                                         "order": 3,
                                         "option": "Fruiting veg",
-                                        "sharedAssetKey": "t94kPS00om",
-                                        "variable": "fruitingVegetables",
+                                        "sharedAssetKey": "wtKA5I00Dj",
                                         "nodes": [
                                             {
-                                                "key": "s7SMPw1lt",
+                                                "key": "wtK9ly0168",
                                                 "order": 1,
-                                                "option": "Patio Cherry Tomato ‘Sun-Dot’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1Rw",
-                                                "order": 2,
-                                                "option": "Micro Roma Tomato ‘Pixel-Plum’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1db",
-                                                "order": 3,
-                                                "option": "Snack Pepper ‘Metro-Sweet’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2V5",
-                                                "order": 4,
-                                                "option": "City Chili ‘FireDot’ - compact hot pepper",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0HW",
-                                                "order": 5,
-                                                "option": "Mini Cucumber ‘Rail-Runner’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0qs",
-                                                "order": 6,
-                                                "option": "Dwarf Zucchini ‘City-Zuke’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw05o",
-                                                "order": 7,
-                                                "option": "Micro Eggplant ‘Metro-Sakura’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0HK",
-                                                "order": 8,
-                                                "option": "Alpine Strawberry ‘EverPink’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0Qg",
-                                                "order": 9,
-                                                "option": "Balcony Melon ‘Honey-Drop’ - mini honeydew",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2Cc",
-                                                "order": 10,
-                                                "option": "Snap Pea ‘Skyline Sugar’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0H4",
-                                                "order": 11,
-                                                "option": "Dwarf Yard-Long Bean ‘Short-Long’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1E2",
-                                                "order": 12,
-                                                "option": "Ground Cherry ‘Urban Lantern’",
-                                                "exitKey": "s7SMPw1Te"
+                                                "iKey": "wtF0Ww02Ne",
+                                                "nodes": [
+                                                    {
+                                                        "key": "wtKTNf00UH",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "wtJUdC01Gg",
+                                                        "exitKey": "s7SMPw1Te"
+                                                    }
+                                                ]
                                             }
                                         ]
                                     },
@@ -270,80 +104,21 @@
                                         "key": "s7SMPw1ap",
                                         "order": 4,
                                         "option": "Roots & stems",
-                                        "sharedAssetKey": "t94omA0066",
-                                        "variable": "rootsAndStems",
+                                        "sharedAssetKey": "wtUcUp01w0",
                                         "nodes": [
                                             {
-                                                "key": "s7SMPw0Qk",
+                                                "key": "wtUc5102NS",
                                                 "order": 1,
-                                                "option": "Finger Carrot ‘Neon 5’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1cZ",
-                                                "order": 2,
-                                                "option": "Baby Beet ‘Ruby 2’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2PO",
-                                                "order": 3,
-                                                "option": "Radish ‘Flash-40’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0dM",
-                                                "order": 4,
-                                                "option": "Mini Daikon ‘Metro-White’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw231",
-                                                "order": 5,
-                                                "option": "Tokyo Turnip ‘Tiny Kabu’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0Kw",
-                                                "order": 6,
-                                                "option": "Baby Sweet Potato ‘Pocket Yama’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw23u",
-                                                "order": 7,
-                                                "option": "Water Spinach Stem ‘WS-Lite’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0SR",
-                                                "order": 8,
-                                                "option": "Baby Ginger ‘Zingy Core’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2GR",
-                                                "order": 9,
-                                                "option": "Young Lotus Root ‘Urban Lotus’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw17E",
-                                                "order": 10,
-                                                "option": "Dwarf Taro ‘Taro-Tiny’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2VJ",
-                                                "order": 11,
-                                                "option": "Baby Kohlrabi ‘Mini Stem’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1x1",
-                                                "order": 12,
-                                                "option": "Compact Celery ‘Stalk-Short’",
-                                                "exitKey": "s7SMPw1Te"
+                                                "iKey": "wtZF260ir",
+                                                "nodes": [
+                                                    {
+                                                        "key": "xBaVh901NX",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "wtZF260zS",
+                                                        "exitKey": "s7SMPw1Te"
+                                                    }
+                                                ]
                                             }
                                         ]
                                     },
@@ -351,98 +126,21 @@
                                         "key": "s7SMPw01z",
                                         "order": 5,
                                         "option": "Edible flowers & specialty greens",
-                                        "sharedAssetKey": "t94tcp00FC",
-                                        "variable": "edibleFlowers",
+                                        "sharedAssetKey": "wth9jW02TO",
                                         "nodes": [
                                             {
-                                                "key": "s7SMPw2L0",
+                                                "key": "wth9JG00rT",
                                                 "order": 1,
-                                                "option": "Nasturtium ‘Citrus Wheel’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2QZ",
-                                                "order": 2,
-                                                "option": "Pansy ‘Urban-Violet’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0Dn",
-                                                "order": 3,
-                                                "option": "Calendula ‘Golden Byte’ - pot marigold",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0SC",
-                                                "order": 4,
-                                                "option": "Borage ‘Sky-Blue’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0pT",
-                                                "order": 5,
-                                                "option": "Red Amaranth Micro ‘Ruby Veil’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw25k",
-                                                "order": 6,
-                                                "option": "Wasabi Arugula ‘Nano-Wasabi’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2Va",
-                                                "order": 7,
-                                                "option": "Shungiku ‘Chop-Chop’ - garland chrysanthemum greens",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2S0",
-                                                "order": 8,
-                                                "option": "Sorrel ‘Lemon Arrow’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2G0",
-                                                "order": 9,
-                                                "option": "Ice Plant ‘Crystal Leaf’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw110",
-                                                "order": 10,
-                                                "option": "Salad Burnet ‘Cucumber Drop’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw191",
-                                                "order": 11,
-                                                "option": "Malabar Spinach ‘Ruby Vine’ - vining",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1Nu",
-                                                "order": 12,
-                                                "option": "Purple Oxalis ‘TriStar’ - tangy “sorrel” notes",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw09N",
-                                                "order": 13,
-                                                "option": "Micro Fenugreek ‘Methi-Micro’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw12a",
-                                                "order": 14,
-                                                "option": "Rainbow Swiss Chard ‘Pixel-Stem’ - multi-colour stems",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0y5",
-                                                "order": 15,
-                                                "option": "Edible Viola ‘Midnight Kiss’",
-                                                "exitKey": "s7SMPw1Te"
+                                                "iKey": "wtfKcq013p",
+                                                "nodes": [
+                                                    {
+                                                        "key": "wthFvA00tr",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "wtgm5X00HJ",
+                                                        "exitKey": "s7SMPw1Te"
+                                                    }
+                                                ]
                                             }
                                         ]
                                     },
@@ -450,80 +148,21 @@
                                         "key": "s7SMPw0iX",
                                         "order": 6,
                                         "option": "Aquatic plants & algae",
-                                        "sharedAssetKey": "t94yZI00AQ",
-                                        "variable": "AquaticPlants",
+                                        "sharedAssetKey": "wu0p2C014e",
                                         "nodes": [
                                             {
-                                                "key": "s7SMPw22V",
+                                                "key": "wu0oSU010x",
                                                 "order": 1,
-                                                "option": "Dwarf Watercress ‘Hydro-Pepper’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1uC",
-                                                "order": 2,
-                                                "option": "Duckweed Protein Blend - Lemna × Wolffia hybrid mix",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1df",
-                                                "order": 3,
-                                                "option": "Azolla ‘Nitro-Fern Nano’ - floating N-fixing fern",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw04x",
-                                                "order": 4,
-                                                "option": "Red Macro-Algae ‘Sachi-Nori’ - Porphyra sp. — mini nori sheets",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0ls",
-                                                "order": 5,
-                                                "option": "Spirulina Mat ‘BlueCore’ - edible cyanobacteria",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1zo",
-                                                "order": 6,
-                                                "option": "Sea Lettuce ‘Urban Ulva’ - chlorophyte algae strips",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0Ex",
-                                                "order": 7,
-                                                "option": "Micro-Kelp ‘Baby Kombu’ - Laminaria micro-cultivar",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw15l",
-                                                "order": 8,
-                                                "option": "Salicornia ‘Mini-Marsh’ - salt-tolerant “sea asparagus”",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0Pq",
-                                                "order": 9,
-                                                "option": "Water Spinach ‘Aqua-Morning’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1UN",
-                                                "order": 10,
-                                                "option": "Frogbit ‘Tiny Shield’ - Limnobium dwarf",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2bI",
-                                                "order": 11,
-                                                "option": "Red Ogo ‘Metro-Ogo’ - Gracilaria cultivar for salads",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2HX",
-                                                "order": 12,
-                                                "option": "Micro Lotus ‘Lilypad-8’ - edible shoots & decorative pads",
-                                                "exitKey": "s7SMPw1Te"
+                                                "iKey": "wtiaC602KY",
+                                                "nodes": [
+                                                    {
+                                                        "key": "wu0zcI00jg",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "wtu3Kb02LO",
+                                                        "exitKey": "s7SMPw1Te"
+                                                    }
+                                                ]
                                             }
                                         ]
                                     },
@@ -531,374 +170,65 @@
                                         "key": "s7SMPw1PR",
                                         "order": 7,
                                         "option": "Mushrooms and fungi",
-                                        "sharedAssetKey": "t952r900a9",
-                                        "variable": "fungi",
+                                        "sharedAssetKey": "wuKYhi00Cm",
                                         "nodes": [
                                             {
-                                                "key": "s7SMPw0cS",
+                                                "key": "wuKY9O02Sy",
                                                 "order": 1,
-                                                "option": "Oyster ‘Pearl-Fog’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0lb",
-                                                "order": 2,
-                                                "option": "Pink Oyster ‘Candy-Cap’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2B0",
-                                                "order": 3,
-                                                "option": "Lion’s Mane ‘BrainFood L-2’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1Yv",
-                                                "order": 4,
-                                                "option": "Shiitake ‘Urban Log’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0Z3",
-                                                "order": 5,
-                                                "option": "Black King Trumpet ‘BK-Mini’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0Nh",
-                                                "order": 6,
-                                                "option": "Enoki ‘Metro-Needle’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1F5",
-                                                "order": 7,
-                                                "option": "Chestnut Mushroom ‘City-Top’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2bD",
-                                                "order": 8,
-                                                "option": "Nameko ‘Amber Slick’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0Pl",
-                                                "order": 9,
-                                                "option": "Pioppino ‘Brown Beech Nano’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1gKs",
-                                                "order": 10,
-                                                "option": "Reishi ‘Micro-Lingzhi’ - functional tonic slices",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw05j",
-                                                "order": 11,
-                                                "option": "Maitake ‘Fractal Feathers’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2SE",
-                                                "order": 12,
-                                                "option": "Cordyceps Militaris ‘Gold Thread’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0tQ",
-                                                "order": 13,
-                                                "option": "Shimeji ‘Snow Cluster’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0mT",
-                                                "order": 14,
-                                                "option": "King Oyster ‘Stubby-King’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0cy",
-                                                "order": 15,
-                                                "option": "Truffle-Inoculated Herb Pod ‘Nano-Truff’ - white truffle mycorrhiza",
-                                                "exitKey": "s7SMPw1Te"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "key": "s7SMPw0zR",
-                                        "order": 8,
-                                        "option": "Fish",
-                                        "sharedAssetKey": "t957Z602Dt",
-                                        "variable": "fish",
-                                        "nodes": [
-                                            {
-                                                "key": "s7SMPw0ch",
-                                                "order": 1,
-                                                "option": "Nano-Tilapia ‘T-Civic’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0rU",
-                                                "order": 2,
-                                                "option": "Blue Nile Tilapia ‘BlueBite’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1pa",
-                                                "order": 3,
-                                                "option": "City Catfish ‘Air-Breather Mini’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2Um",
-                                                "order": 4,
-                                                "option": "Mini Channel Catfish ‘Pocket Stripe’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1dz",
-                                                "order": 5,
-                                                "option": "Herbivore Goldfish ‘FoodFin’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2T5",
-                                                "order": 6,
-                                                "option": "Golden Barb ‘Edible-3’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0RZ",
-                                                "order": 7,
-                                                "option": "Urban Koi ‘Quick-Koi’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1gU",
-                                                "order": 8,
-                                                "option": "Dwarf Rainbow Trout ‘CoolStream’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1Or",
-                                                "order": 9,
-                                                "option": "Nano Carp ‘Silver Byte’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1dx",
-                                                "order": 10,
-                                                "option": "Micro Gourami ‘Protein Pearl’",
-                                                "exitKey": "s7SMPw1Te"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "key": "s7SMPw1lw",
-                                        "order": 9,
-                                        "option": "Crustaceans",
-                                        "sharedAssetKey": "t95DEZ00Un",
-                                        "variable": "crustaceans",
-                                        "nodes": [
-                                            {
-                                                "key": "s7SMPw0c5",
-                                                "order": 1,
-                                                "option": "Freshwater Prawn ‘Pearl-King’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0nW",
-                                                "order": 2,
-                                                "option": "Red-Cherry Shrimp ‘Dual-Bite’ - cleanup + protein",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2Sj",
-                                                "order": 3,
-                                                "option": "Amano Shrimp ‘CleanSweep Urban’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0p1",
-                                                "order": 4,
-                                                "option": "Blue Ghost Shrimp ‘Spectra’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1Zj",
-                                                "order": 5,
-                                                "option": "Mini Crayfish ‘Green-Marble’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2Io",
-                                                "order": 6,
-                                                "option": "Dwarf Redclaw Crayfish ‘Crimson Pinch’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw25K",
-                                                "order": 7,
-                                                "option": "Nano Lobster ‘Pocket-Lob’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1Lx",
-                                                "order": 8,
-                                                "option": "Urban Mud Crab ‘Soft-Shell Micro’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1CA",
-                                                "order": 9,
-                                                "option": "Mini Marron ‘Blue Marronette’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1ZQ",
-                                                "order": 10,
-                                                "option": "Macrobrachium “Giant Prawn Jr.”",
-                                                "exitKey": "s7SMPw1Te"
+                                                "iKey": "wuNsj11BZ",
+                                                "nodes": [
+                                                    {
+                                                        "key": "xBaeRE01pr",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "wuNsj120p",
+                                                        "exitKey": "s7SMPw1Te"
+                                                    }
+                                                ]
                                             }
                                         ]
                                     },
                                     {
                                         "key": "s7SMPw0f6",
-                                        "order": 10,
+                                        "order": 8,
                                         "option": "Molluscs",
-                                        "sharedAssetKey": "t95Gmr00s2",
-                                        "variable": "molluscs",
+                                        "sharedAssetKey": "wuZpWz00UT",
                                         "nodes": [
                                             {
-                                                "key": "s7SMPw01Z",
+                                                "key": "wuZpFY01wv",
                                                 "order": 1,
-                                                "option": "Urban Mussel ‘Closed-Sea’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0eT",
-                                                "order": 2,
-                                                "option": "Manila Clam ‘Metro-Gold’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2GA",
-                                                "order": 3,
-                                                "option": "Micro Scallop ‘Sweet-Dot’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw18W",
-                                                "order": 4,
-                                                "option": "Pocket Oyster ‘Balconia’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0uA",
-                                                "order": 5,
-                                                "option": "Dwarf Razor Clam ‘Nano-Razor’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0CW",
-                                                "order": 6,
-                                                "option": "Hard-Shell Cockle ‘City Cockle’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1Yj",
-                                                "order": 7,
-                                                "option": "Mini Abalone ‘Blue-Ear’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw11i",
-                                                "order": 8,
-                                                "option": "Micro Geoduck ‘Short-Duck’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1Hw",
-                                                "order": 9,
-                                                "option": "Skyline Surf Clam ‘Surf-Sky’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2XA",
-                                                "order": 10,
-                                                "option": "Butter Clam ‘Cream-Dot’\n",
-                                                "exitKey": "s7SMPw1Te"
+                                                "iKey": "wuYugT00Mx",
+                                                "nodes": [
+                                                    {
+                                                        "key": "wuZvcs013L",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "wuZNti02E2",
+                                                        "exitKey": "s7SMPw1Te"
+                                                    }
+                                                ]
                                             }
                                         ]
                                     },
                                     {
                                         "key": "s7SMPw0FD",
-                                        "order": 11,
+                                        "order": 9,
                                         "option": "Snails",
-                                        "sharedAssetKey": "t95Kd600Qm",
-                                        "variable": "snails",
+                                        "sharedAssetKey": "wubdhS02Yp",
                                         "nodes": [
                                             {
-                                                "key": "s7SMPw2IZ",
+                                                "key": "wubdK001HL",
                                                 "order": 1,
-                                                "option": "Table Snail ‘Helix Max-Mini’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw12O",
-                                                "order": 2,
-                                                "option": "Burgundy Snail ‘Petit Bourguignon’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1nP",
-                                                "order": 3,
-                                                "option": "Garden Stripe Snail ‘Brown-Line Nano’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw0iO",
-                                                "order": 4,
-                                                "option": "Dwarf Giant African Snail ‘Chef-Shell’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2JH",
-                                                "order": 5,
-                                                "option": "Milk Snail ‘Lactea Urban’",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw09M",
-                                                "order": 6,
-                                                "option": "Golden Apple Snail ‘Gilt Apple Mini’ - semi-aquatic",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw11H",
-                                                "order": 7,
-                                                "option": "Mystery Snail ‘Protein Pearl’ - fresh-water cleanup + food",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw2At",
-                                                "order": 8,
-                                                "option": "City Periwinkle ‘Peri-Pocket’ - haloponic, marine",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw13a",
-                                                "order": 9,
-                                                "option": "Mini Whelk ‘Spiral Bite’* - brackish",
-                                                "exitKey": "s7SMPw1Te"
-                                            },
-                                            {
-                                                "key": "s7SMPw1w9",
-                                                "order": 10,
-                                                "option": "Striped Nerite ‘Neri-Snack’ - algae grazer & garnish",
-                                                "exitKey": "s7SMPw1Te"
+                                                "iKey": "wuahkg011M",
+                                                "nodes": [
+                                                    {
+                                                        "key": "wubjTs00Zy",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "wubGs202Bw",
+                                                        "exitKey": "s7SMPw1Te"
+                                                    }
+                                                ]
                                             }
                                         ]
                                     }
@@ -923,81 +253,7 @@
         },
         {
             "key": "δ-s7SMPw0qZ",
-            "relativePath": "./δ steps/δ-qEBAUI0sX.tsstp"
-        },
-        {
-            "key": "δ-s7SMPw0wW",
-            "relativePath": "./δ steps/δ-qHsnoT01Yd.tsstp"
-        },
-        {
-            "key": "δ-s7SMPw280",
-            "relativePath": "./δ steps/δ-qHsopS0094.tsstp"
-        },
-        {
-            "key": "δ-s7SMPw0l9",
-            "relativePath": "./δ steps/δ-qHsxAx01uJ.tsstp"
-        },
-        {
-            "key": "δ-s7SMPw1Lw",
-            "relativePath": "./δ steps/δ-qHsyrb016W.tsstp"
-        },
-        {
-            "key": "δ-s7SMPw0Ps",
-            "relativePath": "./δ steps/δ-qHt2gq00rO.tsstp"
-        },
-        {
-            "key": "δ-s7SMPw19L",
-            "relativePath": "./δ steps/δ-qHt3ZV020m.tsstp"
-        },
-        {
-            "key": "t94cmQ00Fm",
-            "relativePath": "../_shared/LeafyGreens.tsstp",
-            "isShared": true
-        },
-        {
-            "key": "t94kPS00om",
-            "relativePath": "../_shared/FruitingVegetables.tsstp",
-            "isShared": true
-        },
-        {
-            "key": "t94omA0066",
-            "relativePath": "../_shared/RootsAndStems.tsstp",
-            "isShared": true
-        },
-        {
-            "key": "t94tcp00FC",
-            "relativePath": "../_shared/EdibleFlowers.tsstp",
-            "isShared": true
-        },
-        {
-            "key": "t94yZI00AQ",
-            "relativePath": "../_shared/AquaticPlants.tsstp",
-            "isShared": true
-        },
-        {
-            "key": "t952r900a9",
-            "relativePath": "../_shared/Mushrooms.tsstp",
-            "isShared": true
-        },
-        {
-            "key": "t957Z602Dt",
-            "relativePath": "../_shared/Fish.tsstp",
-            "isShared": true
-        },
-        {
-            "key": "t95DEZ00Un",
-            "relativePath": "../_shared/Crustaceans.tsstp",
-            "isShared": true
-        },
-        {
-            "key": "t95Gmr00s2",
-            "relativePath": "../_shared/Molluscs.tsstp",
-            "isShared": true
-        },
-        {
-            "key": "t95Kd600Qm",
-            "relativePath": "../_shared/Snails.tsstp",
-            "isShared": true
+            "relativePath": "./δ steps/δ-s7SMPw0qZ.tsstp"
         },
         {
             "key": "t946HF00QZ",
@@ -1013,11 +269,83 @@
             "key": "t93lUZ00Gt",
             "relativePath": "../_shared/FaunaCategories.tsstp",
             "isShared": true
+        },
+        {
+            "key": "wtGg7100cy",
+            "relativePath": "../_shared/LeafyGreens.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wstONd00R7",
+            "relativePath": "./δ steps/δ-wstONd00R7.tsstp"
+        },
+        {
+            "key": "wtKA5I00Dj",
+            "relativePath": "../_shared/FruitingVegetables.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wtK9ly0168",
+            "relativePath": "./δ steps/δ-wtK9ly0168.tsstp"
+        },
+        {
+            "key": "wtUcUp01w0",
+            "relativePath": "../_shared/RootsAndStems.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wtUc5102NS",
+            "relativePath": "./δ steps/δ-wtUc5102NS.tsstp"
+        },
+        {
+            "key": "wth9jW02TO",
+            "relativePath": "../_shared/EdibleFlowers.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wth9JG00rT",
+            "relativePath": "./δ steps/δ-wth9JG00rT.tsstp"
+        },
+        {
+            "key": "wu0p2C014e",
+            "relativePath": "../_shared/AquaticPlants.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wu0oSU010x",
+            "relativePath": "./δ steps/δ-wu0oSU010x.tsstp"
+        },
+        {
+            "key": "wuKYhi00Cm",
+            "relativePath": "../_shared/Mushrooms.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wuKY9O02Sy",
+            "relativePath": "./δ steps/δ-wuKY9O02Sy.tsstp"
+        },
+        {
+            "key": "wuZpWz00UT",
+            "relativePath": "../_shared/Molluscs.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wuZpFY01wv",
+            "relativePath": "./δ steps/δ-wuZpFY01wv.tsstp"
+        },
+        {
+            "key": "wubdhS02Yp",
+            "relativePath": "../_shared/Snails.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-wubdK001HL",
+            "relativePath": "./δ steps/δ-wubdK001HL.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "tCtyho00jj",
-        "editorID": "car_96be7a46bd844eb5a7c0fd70c1a8eeec",
-        "ticks": 1757323563188
+        "id": "xBolPd022c",
+        "editorID": "car_2a9075bdedc8447688dc8dc5f348b8ef",
+        "ticks": 1760972075441
     }
 }

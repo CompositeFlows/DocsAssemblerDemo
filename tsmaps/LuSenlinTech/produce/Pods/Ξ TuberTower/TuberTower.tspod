@@ -1,0 +1,41 @@
+{
+    "key": "wkPL1J00M3  ",
+    "token": "Tubertower",
+    "name": "TuberTower",
+    "created": "2025-10-15T22:24:14.717Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Ξ TuberTower/TuberTower.tspod",
+    "isPod": true,
+    "iText": "Link to 'TuberTower'",
+    "___rΩΩt___": {
+        "key": "wkPLta01tp",
+        "sharedAssetKey": "x4hlSc00wF",
+        "nodes": [
+            {
+                "key": "wkPSZJ02TT",
+                "order": 1,
+                "option": "TuberTower details",
+                "sharedAssetKey": "x4hnAa00Qu",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "x4hlSc00wF",
+            "relativePath": "../../../../../../../../../C:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/_shared/CategoryTables/TuberTowerTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "x4hnAa00Qu",
+            "relativePath": "../../../../../../../../../C:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/_shared/CategoryDetails/TuberTowerDetails.tsstp",
+            "isShared": true
+        }
+    ],
+    "___εdit___": {
+        "id": "x4hnfR02Ba",
+        "editorID": "car_7d7baeb9142446a89ab40b2c8a9d05e5",
+        "ticks": 1760866981461
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "key": "welO3r01ex  ",
+    "token": "Rootvault",
+    "name": "RootVault",
+    "created": "2025-10-14T23:14:11.607Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/Pods/Ξ RootVault/RootVault.tspod",
+    "isPod": true,
+    "iText": "Link to 'RootVault'",
+    "___rΩΩt___": {
+        "key": "welPiS00cB",
+        "sharedAssetKey": "x4ZBmo004l",
+        "nodes": [
+            {
+                "key": "welS6i00dC",
+                "order": 1,
+                "option": "RootVault details",
+                "sharedAssetKey": "x4ZDne02Gs",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "x4ZBmo004l",
+            "relativePath": "../../../../../../../../../C:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/_shared/CategoryTables/RootVaultTable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "x4ZDne02Gs",
+            "relativePath": "../../../../../../../../../C:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/_shared/CategoryDetails/RootVaultDetails.tsstp",
+            "isShared": true
+        }
+    ],
+    "___εdit___": {
+        "id": "x4ZEAx00Vr",
+        "editorID": "car_d2d654ee44b64275a1ca0f44b24aefe9",
+        "ticks": 1760864938407
+    }
+}

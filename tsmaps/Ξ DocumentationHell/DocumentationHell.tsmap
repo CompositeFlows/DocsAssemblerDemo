@@ -15,66 +15,46 @@
                 "order": 1,
                 "nodes": [
                     {
-                        "key": "tEmJZ902RJ",
-                        "order": 1,
-                        "option": "What are Decision Trees?",
-                        "isLeaf": true,
-                        "isAncillary": true
-                    },
-                    {
                         "key": "u0zrG5006o",
-                        "order": 2,
+                        "order": 1,
                         "nodes": [
                             {
-                                "key": "syiEK300IB",
+                                "key": "ul49g902Ww",
                                 "order": 1,
                                 "nodes": [
                                     {
-                                        "key": "u3wRvJ01ax",
+                                        "key": "u4jl9y01Ic",
                                         "order": 1,
                                         "nodes": [
                                             {
-                                                "key": "u4jl9y01Ic",
+                                                "key": "u4eeh600MG",
                                                 "order": 1,
+                                                "option": "Explore a Docs Assembler Solution ",
+                                                "isHeadless": true,
                                                 "nodes": [
                                                     {
-                                                        "key": "u4eeh600MG",
+                                                        "key": "sPekVJ00fk",
                                                         "order": 1,
-                                                        "option": "With the Big Picture",
-                                                        "nodes": [
-                                                            {
-                                                                "key": "sPekVJ00fk",
-                                                                "order": 1,
-                                                                "nodes": [
-                                                                    {
-                                                                        "key": "sPilio00TB",
-                                                                        "order": 1,
-                                                                        "isLeaf": true,
-                                                                        "iKey": "u5gguY01On"
-                                                                    },
-                                                                    {
-                                                                        "key": "tM5xzz00FG",
-                                                                        "order": 2,
-                                                                        "option": "What are Hallucinations?",
-                                                                        "isLeaf": true,
-                                                                        "isAncillary": true,
-                                                                        "iKey": "u5Yi1402Vi"
-                                                                    }
-                                                                ]
-                                                            }
-                                                        ]
-                                                    },
+                                                        "isLeaf": true,
+                                                        "iKey": "u5gguY01On"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "key": "uqem6A02Wl",
+                                                "order": 2,
+                                                "option": "The Technical Deep Dive",
+                                                "nodes": [
                                                     {
-                                                        "key": "u4z15g02aS",
-                                                        "order": 2,
-                                                        "option": "The Technical Deep Dive",
+                                                        "key": "uqeq2100Ph",
+                                                        "order": 1,
                                                         "nodes": [
                                                             {
-                                                                "key": "u50veA026m",
+                                                                "key": "u4z15g02aS",
                                                                 "order": 1,
                                                                 "nodes": [
                                                                     {
-                                                                        "key": "u50xsy01uJ",
+                                                                        "key": "u50veA026m",
                                                                         "order": 1,
                                                                         "nodes": [
                                                                             {
@@ -128,6 +108,13 @@
                                                                         ]
                                                                     }
                                                                 ]
+                                                            },
+                                                            {
+                                                                "key": "v6E9BE01nK",
+                                                                "order": 2,
+                                                                "option": "What are decision trees?",
+                                                                "isLeaf": true,
+                                                                "isAncillary": true
                                                             }
                                                         ]
                                                     }
@@ -153,36 +140,12 @@
             "relativePath": "./δ steps/δ-sPekVJ00fk.tsstp"
         },
         {
-            "key": "δ-sPilio00TB",
-            "relativePath": "./δ steps/δ-sPilio00TB.tsstp"
-        },
-        {
             "key": "δ-sYNvVu009z",
             "relativePath": "./δ steps/δ-sYNvVu009z.tsstp"
         },
         {
-            "key": "δ-syiEK300IB",
-            "relativePath": "./δ steps/δ-syiEK300IB.tsstp"
-        },
-        {
-            "key": "δ-tEmJZ902RJ",
-            "relativePath": "./δ steps/δ-tEmJZ902RJ.tsstp"
-        },
-        {
-            "key": "δ-tM5xzz00FG",
-            "relativePath": "./δ steps/δ-tM5xzz00FG.tsstp"
-        },
-        {
             "key": "δ-u0zrG5006o",
             "relativePath": "./δ steps/δ-u0zrG5006o.tsstp"
-        },
-        {
-            "key": "δ-u3wRvJ01ax",
-            "relativePath": "./δ steps/δ-u3wRvJ01ax.tsstp"
-        },
-        {
-            "key": "δ-u4eeh600MG",
-            "relativePath": "./δ steps/δ-u4eeh600MG.tsstp"
         },
         {
             "key": "δ-u4jl9y01Ic",
@@ -213,10 +176,6 @@
             "relativePath": "./δ steps/δ-u50veA026m.tsstp"
         },
         {
-            "key": "δ-u50xsy01uJ",
-            "relativePath": "./δ steps/δ-u50xsy01uJ.tsstp"
-        },
-        {
             "key": "δ-u519GF00X2",
             "relativePath": "./δ steps/δ-u519GF00X2.tsstp"
         },
@@ -227,11 +186,27 @@
         {
             "key": "δ-u5ZOcJ01h6",
             "relativePath": "./δ steps/δ-u5ZOcJ01h6.tsstp"
+        },
+        {
+            "key": "δ-ul49g902Ww",
+            "relativePath": "./δ steps/δ-ul49g902Ww.tsstp"
+        },
+        {
+            "key": "δ-uqem6A02Wl",
+            "relativePath": "./δ steps/δ-uqem6A02Wl.tsstp"
+        },
+        {
+            "key": "δ-uqeq2100Ph",
+            "relativePath": "./δ steps/δ-uqeq2100Ph.tsstp"
+        },
+        {
+            "key": "δ-v6E9BE01nK",
+            "relativePath": "./δ steps/δ-v6E9BE01nK.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "u6yB2200Cr",
-        "editorID": "me_10bedd873d2646d1953d450cbc0bc05d",
-        "ticks": 1758152038698
+        "id": "v6FNnD00Qf",
+        "editorID": "me_cf4baed59ef04d9a8554977479ff2e7d",
+        "ticks": 1759057495823
     }
 }

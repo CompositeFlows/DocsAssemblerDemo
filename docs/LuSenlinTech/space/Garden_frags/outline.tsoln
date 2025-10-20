@@ -1,8 +1,122 @@
 {
     "v": "1",
     "r": {
-        "i": "uIgISj05H",
-        "n": "s7LPlH1pM"
+        "i": "xCf9hj25R",
+        "n": "s7LPlH1pM",
+        "c": 0,
+        "o": [
+            {
+                "i": "xCf9hs2K1",
+                "n": "uTmD5l005o",
+                "x": "s7LPr60ZH",
+                "c": 1,
+                "o": [
+                    {
+                        "i": "xCf9hx1o5",
+                        "n": "uTqFcx011n",
+                        "x": "s7LPoO19j",
+                        "c": 2,
+                        "o": [
+                            {
+                                "i": "xCf9hx1YP",
+                                "n": "uUIlHJ01ew",
+                                "x": "s7SMOZ0VN",
+                                "c": 3,
+                                "o": [
+                                    {
+                                        "i": "xCf9hx1GY",
+                                        "n": "uUIwcU01nd",
+                                        "x": "s7SMXt1dV"
+                                    },
+                                    {
+                                        "i": "xCf9i80lM",
+                                        "n": "uUIwcU00ZX",
+                                        "x": "s7SMXt0Xu"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "i": "xCf9iZ05a",
+                        "n": "uTqFcx01v9",
+                        "x": "s7LPoO04R",
+                        "c": 2,
+                        "o": [
+                            {
+                                "i": "xCf9iZ265",
+                                "n": "uX8nQy01E2",
+                                "x": "s7SMOZ0VN",
+                                "c": 3,
+                                "o": [
+                                    {
+                                        "i": "xCf9iZ081",
+                                        "n": "uX8qfD0069",
+                                        "x": "s7SMXt1dV"
+                                    },
+                                    {
+                                        "i": "xCf9ih1Xh",
+                                        "n": "uX8qfD00kW",
+                                        "x": "s7SMXt0Xu"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "i": "xCf9j70Oq",
+                        "n": "uTqFcx00Qd",
+                        "x": "s7LPoO2Y3",
+                        "c": 4,
+                        "o": [
+                            {
+                                "i": "xCf9j80re",
+                                "n": "uXiRX502FW",
+                                "x": "uXcsWB01pQ",
+                                "c": 3,
+                                "o": [
+                                    {
+                                        "i": "xCf9j82QB",
+                                        "n": "uXiZKC00Pb",
+                                        "x": "s7SMXt1dV"
+                                    },
+                                    {
+                                        "i": "xCf9jF1Us",
+                                        "n": "uXiZKC00o0",
+                                        "x": "s7SMXt0Xu"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     },
-    "e": 0
+    "c": [
+        {
+            "i": "s7LPr60IG",
+            "p": "LuSenlinTech/climate/Climate_frags"
+        },
+        {
+            "i": "s7LPoO1sh",
+            "p": "LuSenlinTech/preferences/ClientEffort_frags"
+        },
+        {
+            "i": "s7SMOZ0AN",
+            "p": "LuSenlinTech/equipment/FrameTower_frags"
+        },
+        {
+            "i": "s7SMXt0ol",
+            "p": "LuSenlinTech/equipment/Power_frags"
+        },
+        {
+            "i": "uXEN9G00lv",
+            "p": "LuSenlinTech/equipment/CustomFrameTower_frags"
+        }
+    ],
+    "e": 0,
+    "mv": {
+        "spaceDisplayText": "garden or small outdoor plot"
+    }
 }
