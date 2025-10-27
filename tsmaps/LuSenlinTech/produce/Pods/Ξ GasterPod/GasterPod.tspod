@@ -15,9 +15,9 @@
                 "key": "wkNcWs02Pu",
                 "order": 1,
                 "option": "GasterPod details",
-                "sharedAssetKey": "x4ctdv00dK",
                 "isLeaf": true,
-                "isAncillary": true
+                "isAncillary": true,
+                "iKey": "xrbxcm01Qu"
             }
         ]
     },
@@ -28,14 +28,13 @@
             "isShared": true
         },
         {
-            "key": "x4ctdv00dK",
-            "relativePath": "../../../../../../../../../C:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/_shared/CategoryDetails/GasterPodDetails.tsstp",
-            "isShared": true
+            "key": "δ-wkNcWs02Pu",
+            "relativePath": "./δ steps/δ-wkNcWs02Pu.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "x4cu1V01dy",
-        "editorID": "car_41a8cdfb500c4fb5957bed5ff2e3e34b",
-        "ticks": 1760865814253
+        "id": "xsgrZU00NR",
+        "editorID": "car_1c0ed81ab5df4cf18f95bf442a27f40e",
+        "ticks": 1761605574940
     }
 }

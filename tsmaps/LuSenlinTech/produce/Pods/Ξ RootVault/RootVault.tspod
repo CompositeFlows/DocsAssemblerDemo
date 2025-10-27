@@ -15,9 +15,9 @@
                 "key": "welS6i00dC",
                 "order": 1,
                 "option": "RootVault details",
-                "sharedAssetKey": "x4ZDne02Gs",
                 "isLeaf": true,
-                "isAncillary": true
+                "isAncillary": true,
+                "iKey": "xsb4l200p2"
             }
         ]
     },
@@ -28,14 +28,13 @@
             "isShared": true
         },
         {
-            "key": "x4ZDne02Gs",
-            "relativePath": "../../../../../../../../../C:/GitHub/MuddySpud/MuddySpud.github.io/tsmaps/LuSenlinTech/produce/_shared/CategoryDetails/RootVaultDetails.tsstp",
-            "isShared": true
+            "key": "δ-welS6i00dC",
+            "relativePath": "./δ steps/δ-welS6i00dC.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "x4ZEAx00Vr",
-        "editorID": "car_d2d654ee44b64275a1ca0f44b24aefe9",
-        "ticks": 1760864938407
+        "id": "xsgxwf00ix",
+        "editorID": "car_2fd7286a70894b549dbada28ab867033",
+        "ticks": 1761605599441
     }
 }

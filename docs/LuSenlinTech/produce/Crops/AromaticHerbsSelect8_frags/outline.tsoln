@@ -1,54 +1,54 @@
 {
     "v": "1",
     "r": {
-        "i": "xbLLvs0wy",
+        "i": "xsm5Js0WA",
         "n": "wtLakC01RD",
         "c": 0,
         "o": [
             {
-                "i": "xbLLw503S",
+                "i": "xsm5KR177",
                 "n": "wqOFhL01sy",
                 "x": "s7LPsx14a",
                 "c": 0,
                 "o": [
                     {
-                        "i": "xbLLwA12C",
+                        "i": "xsm5KX2CQ",
                         "n": "wqOYAt01oR",
                         "x": "s7LPsx14a",
                         "c": 0,
                         "o": [
                             {
-                                "i": "xbLLwF1G5",
+                                "i": "xsm5Kc149",
                                 "n": "wqOlD00261",
                                 "x": "s7LPsx14a",
                                 "c": 0,
                                 "o": [
                                     {
-                                        "i": "xbLLwJ21H",
+                                        "i": "xsm5L80Eu",
                                         "n": "wqOu3X02OP",
                                         "x": "s7LPsx14a",
                                         "c": 0,
                                         "o": [
                                             {
-                                                "i": "xbLLwU1L1",
+                                                "i": "xsm5LH0bS",
                                                 "n": "wqQaiU02UK",
                                                 "x": "s7LPsx14a",
                                                 "c": 0,
                                                 "o": [
                                                     {
-                                                        "i": "xbLLwg0ww",
+                                                        "i": "xsm5LP0sd",
                                                         "n": "wqQpnz00dJ",
                                                         "x": "s7LPsx14a",
                                                         "c": 0,
                                                         "o": [
                                                             {
-                                                                "i": "xbLLwr2Th",
+                                                                "i": "xsm5Lx1ZU",
                                                                 "n": "wqR2Nf01jg",
                                                                 "x": "s7LPsx14a",
                                                                 "c": 0,
                                                                 "o": [
                                                                     {
-                                                                        "i": "xbLLxH0nl",
+                                                                        "i": "xsm5ME0eh",
                                                                         "n": "wqRDWe02Tp",
                                                                         "x": "s7LPsx14a",
                                                                         "_x": "wqOwpY00zX"
@@ -75,5 +75,9 @@
             "p": "LuSenlinTech/produce/HerbSelection_frags"
         }
     ],
-    "e": 1
+    "e": 1,
+    "mv": {
+        "bayCount": "8",
+        "modelName": "1000"
+    }
 }

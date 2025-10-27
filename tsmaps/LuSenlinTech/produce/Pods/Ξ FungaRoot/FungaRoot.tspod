@@ -14,7 +14,7 @@
             {
                 "key": "wkN2cH02Ll",
                 "order": 1,
-                "option": "FungaRoot details",
+                "option": "FungaRoot - a deeper look",
                 "sharedAssetKey": "x4cCMk02T5",
                 "isLeaf": true,
                 "isAncillary": true
@@ -34,8 +34,8 @@
         }
     ],
     "___εdit___": {
-        "id": "x4cCiB01b8",
-        "editorID": "car_a530a068311d4d1496700296bc5ea4c1",
-        "ticks": 1760865647763
+        "id": "xmFzO501sk",
+        "editorID": "car_3a466bdb33734598b9dbc45defac189e",
+        "ticks": 1761510512113
     }
 }
